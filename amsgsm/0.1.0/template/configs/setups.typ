@@ -1,4 +1,4 @@
-#import "@runge/notes:0.1.3": *
+#import "@local/amsgsm:0.1.0": *
 #import "./configs.typ": *
 
 #let show-rules = config-structured-notebook(

@@ -1,4 +1,4 @@
-#import "@runge/thm:0.1.0": theorem-rules
+#import "packages.typ": theorem-rules
 
 #let text-config = it => {
   it
