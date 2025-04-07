@@ -1,0 +1,12 @@
+[package]
+name = "amsgsm"
+version = "0.1.0"
+entrypoint = "exports.typ"
+license = "GPLv3"
+authors = ["Runge"]
+description = "A package and a template for creating organized book, inspired by Graduate Studies in Mathematics series of American Mathematical Society."
+compiler = "0.12.0"
+
+[template]
+path = "template"
+entrypoint = "main.typ"

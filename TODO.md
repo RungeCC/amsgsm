@@ -1,0 +1,3 @@
+- `manual` and/or `doc`
+- allow customize `header`
+- fix some bugs with `outline`
